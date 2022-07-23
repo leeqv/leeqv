@@ -34,4 +34,4 @@
 
 ### 📈 My Stats
 ![leeqv's github stats](https://github-readme-stats.vercel.app/api?username=leeqv&theme=onedark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeqv&layout=compact&theme=onedark)](https://github.com/leeqv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeqv&layout=compact&theme=onedark&cache_seconds=2000)](https://github.com/leeqv/github-readme-stats)
