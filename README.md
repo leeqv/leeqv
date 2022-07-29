@@ -12,7 +12,7 @@
 - 👩‍💻 I'm a self-motivated Front-End Web Developer.
 - 🌱 I'm currently learning React.
 - 🐾 I like cats, and dogs. Rescued is my favorite breed.
-- 🍿 I like watching anime.
+- 🍿 I like watching anime and listening to Jpop.
 
 ---
 
